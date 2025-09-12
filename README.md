@@ -10,7 +10,6 @@ This project demonstrates **RESTful routing**, **server-side rendering**, and **
 - [🛠️ Tech Stack](#️-tech-stack)
 - [📂 Project Structure](#-project-structure)
 - [🚀 Getting Started](#-getting-started)
-- [📸 Screenshots](#-screenshots)
 - [🔮 Future Enhancements](#-future-enhancements)
 - [🤝 Contributing](#-contributing)
 - [📜 License](#-license)
@@ -75,15 +74,6 @@ Go to 👉 [http://localhost:8080/posts](http://localhost:8080/posts)
 
 ---
 
-## 📸 Screenshots
-*(Optional: Add screenshots of All Posts page, New Post form, Edit page, etc.)*  
-
-Example:
-- **All Posts Page**  
-- **Post Details**  
-- **Edit Post Form**  
-
----
 
 ## 🔮 Future Enhancements
 - 🗄 Add database (MongoDB/MySQL/Postgres) for persistence  
